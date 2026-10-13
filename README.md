@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./avi-ascii.svg" width="500" alt="ASCII portrait" />
+<img src="./assets/flag-wave.gif" width="500" alt="Flag Wave" />
 
 <h2>Aditya Rai</h2>
 
